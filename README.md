@@ -1,0 +1,6 @@
+- 一般库选择MIT协议，如果涉及专利技术，则可以选择Apache协议
+    - MIT：Jq、React、Vue、Angular、Eslint
+    - Apache：Echarts、less、ts
+- 如何创建LISENCE文件
+    - 通过指令 `npm i touch-cli -g`全局安装，为了能全局使用touch指令
+    - 然后通过`touch LISENCE`创建文件
